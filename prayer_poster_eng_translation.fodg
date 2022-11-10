@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.graphics">
+ <office:meta><dc:date>2022-11-10T17:13:40.521000000</dc:date><meta:creation-date>2022-11-09T22:59:29Z</meta:creation-date><meta:generator>LibreOffice/7.4.2.3$Windows_X86_64 LibreOffice_project/382eef1f22670f7f4118c8c2dd222ec7ad009daf</meta:generator><meta:editing-duration>PT49M32S</meta:editing-duration><meta:editing-cycles>49</meta:editing-cycles><dc:title>Supplications Poster with English Translation</dc:title><meta:document-statistic meta:object-count="111"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">25509</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-73269</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">142302</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">82021</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item config:name="GridIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="GridIsFront" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToPageMargins" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToSnapLines" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToObjectFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToObjectPoints" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsPlusHandlesAlwaysVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsFrameDragSingles" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="EliminatePolyPointLimitAngle" config:type="int">1500</config:config-item>
+     <config:config-item config:name="IsEliminatePolyPoints" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="VisibleLayers" config:type="base64Binary">Hw==</config:config-item>
+     <config:config-item config:name="PrintableLayers" config:type="base64Binary">Hw==</config:config-item>
+     <config:config-item config:name="LockedLayers" config:type="base64Binary"/>
+     <config:config-item config:name="NoAttribs" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="SnapLinesDrawing" config:type="string">V80750</config:config-item>
+     <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
+     <config:config-item config:name="IsLayerMode" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
+     <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">50355</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-28894</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">135526</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">78116</config:config-item>
+     <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridFineWidth" config:type="int">250</config:config-item>
+     <config:config-item config:name="GridFineHeight" config:type="int">250</config:config-item>
+     <config:config-item config:name="GridSnapWidthXNumerator" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridSnapWidthXDenominator" config:type="int">4</config:config-item>
+     <config:config-item config:name="GridSnapWidthYNumerator" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">4</config:config-item>
+     <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
+     <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ar</config:config-item>
+     <config:config-item config:name="Country" config:type="string">SA</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">AU</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">PRNT-4833FR</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">1QX+/1BSTlQtNDgzM0ZSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU2Ftc3VuZyBTQ1gtNDgzeCA1eDN4IFNlcmllcyBQQwAWAAEA9gQAAAAAAAAIAFZUAAAkbQAAM1ROVwAAAAAKAFAAUgBOAFQALQA0ADgAMwAzAEYAUgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAMG3AAQBEO3AAIBAAEA6gpvCGQAAQAPAFgCAQABAFgCAwAAAEwAZQB0AHQAZQByAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAIAAAARAQAA/////0dJUzQAAAAAAAAAAAAAAABESU5VIgCYAfQDHADs6ejlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEAAFNNVEoAAAAAEACIAXsAOAAyADUARAA3ADkAQgBFAC0AQwA1AEIAMAAtADQAOQA2ADQALQA4AEYANQA5AC0AMwA4AEMAMQBEADAAQQA1ADIAOQBEADEAfQAAAElucHV0QmluAEFVVE8AUkVTRExMAFVuaXJlc0RMTABPcmllbnRhdGlvbgBQT1JUUkFJVABDb2xsYXRlAE9GRgBNZWRpYVR5cGUAUHJpbnRlckRlZmF1bHQASm9iUmV2ZXJzZUR1cGxleABPRkYASm9iVG9uZXJTYXZlAE9GRgBKb2JTa2lwQmxhbmtQYWdlcwBPRkYAUmVzb2x1dGlvbgBOb3JtYWwAUGFwZXJTaXplAExFVFRFUgBEdXBsZXgATk9ORQBQYWdlc1BlclNoZWV0ADEAUGFnZU9yZGVyAEZyb250VG9CYWNrAEJvb2tsZXQAT0ZGAFBhZ2VCb3JkZXIAT0ZGAENvbG9yTW9kZQBHcmF5c2NhbGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAFY0RE0BAAAAAAAAAAAAAAAAAAAAAAAAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintDate" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintHiddenPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintFitPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintBookletFront" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
+   <config:config-item config:name="DashTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sod</config:config-item>
+   <config:config-item config:name="ColorTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soc</config:config-item>
+   <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LineEndTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soe</config:config-item>
+   <config:config-item config:name="HatchTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soh</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GradientTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sog</config:config-item>
+   <config:config-item config:name="BitmapTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sob</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MeasureUnit" config:type="short">3</config:config-item>
+   <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
+   <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans1" svg:font-family="&apos;Open Sans&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans2" svg:font-family="&apos;Open Sans&apos;"/>
+  <style:font-face style:name="Open Sans3" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Traditional Arabic" svg:font-family="&apos;Traditional Arabic&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Traditional Arabic1" svg:font-family="&apos;Traditional Arabic&apos;"/>
+  <style:font-face style:name="Traditional Arabic2" svg:font-family="&apos;Traditional Arabic&apos;" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Filled" draw:style="linear" draw:start-color="#ffffff" draw:end-color="#cccccc" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Filled_20_Blue" draw:display-name="Filled Blue" draw:style="linear" draw:start-color="#729fcf" draw:end-color="#355269" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Filled_20_Green" draw:display-name="Filled Green" draw:style="linear" draw:start-color="#77bc65" draw:end-color="#127622" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Filled_20_Red" draw:display-name="Filled Red" draw:style="linear" draw:start-color="#ff6d6d" draw:end-color="#c9211e" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Filled_20_Yellow" draw:display-name="Filled Yellow" draw:style="linear" draw:start-color="#ffde59" draw:end-color="#b47804" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Shapes" draw:style="rectangular" draw:cx="50%" draw:cy="50%" draw:start-color="#cccccc" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0deg" draw:border="0%"/>
+  <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Open Sans1" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Open Sans1" style:font-size-complex="24pt" style:language-complex="ar" style:country-complex="SA"/>
+  </style:default-style>
+  <style:style style:name="standard" style:family="graphic">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:marker-end-width="0.2cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#729fcf" draw:textarea-horizontal-align="justify" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080">
+    <text:list-style style:name="standard">
+     <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+      <style:list-level-properties text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+      <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+      <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+      <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+      <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+      <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+      <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+      <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+      <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+      <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+    </text:list-style>
+   </style:graphic-properties>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Open Sans1" fo:font-family="&apos;Open Sans&apos;" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Open Sans1" style:font-family-asian="&apos;Open Sans&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Open Sans3" style:font-family-complex="&apos;Open Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:fill="none"/>
+  </style:style>
+  <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="Text" style:family="graphic">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-color="#cccccc" draw:fill="solid" draw:fill-color="#eeeeee"/>
+   <style:text-properties style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="A4" style:family="graphic" style:parent-style-name="Text">
+   <style:graphic-properties draw:fill="none"/>
+   <style:text-properties fo:font-size="18pt"/>
+  </style:style>
+  <style:style style:name="Title_20_A4" style:display-name="Title A4" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+   <style:text-properties fo:font-size="44pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_A4" style:display-name="Heading A4" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+   <style:text-properties fo:font-size="24pt"/>
+  </style:style>
+  <style:style style:name="Text_20_A4" style:display-name="Text A4" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+  </style:style>
+  <style:style style:name="A4" style:family="graphic" style:parent-style-name="Text">
+   <style:graphic-properties draw:fill="none"/>
+   <style:text-properties fo:font-size="18pt"/>
+  </style:style>
+  <style:style style:name="Title_20_A0" style:display-name="Title A0" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+   <style:text-properties fo:font-size="96pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_A0" style:display-name="Heading A0" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+   <style:text-properties fo:font-size="71.9000015258789pt"/>
+  </style:style>
+  <style:style style:name="Text_20_A0" style:display-name="Text A0" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+  </style:style>
+  <style:style style:name="Graphic" style:family="graphic">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/>
+  </style:style>
+  <style:style style:name="Shapes" style:family="graphic" style:parent-style-name="Graphic">
+   <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Shapes"/>
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Filled" style:family="graphic" style:parent-style-name="Shapes">
+   <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Filled"/>
+  </style:style>
+  <style:style style:name="Filled_20_Blue" style:display-name="Filled Blue" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:fill-gradient-name="Filled_20_Blue"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%"/>
+  </style:style>
+  <style:style style:name="Filled_20_Green" style:display-name="Filled Green" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:fill-gradient-name="Filled_20_Green"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Filled_20_Red" style:display-name="Filled Red" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:fill-gradient-name="Filled_20_Red"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%"/>
+  </style:style>
+  <style:style style:name="Filled_20_Yellow" style:display-name="Filled Yellow" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:fill-gradient-name="Filled_20_Yellow"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%"/>
+  </style:style>
+  <style:style style:name="Outlined" style:family="graphic" style:parent-style-name="Shapes">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.081cm" svg:stroke-color="#000000" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Blue" style:display-name="Outlined Blue" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties svg:stroke-color="#355269"/>
+   <style:text-properties fo:color="#355269" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Green" style:display-name="Outlined Green" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties svg:stroke-color="#127622"/>
+   <style:text-properties fo:color="#127622" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Red" style:display-name="Outlined Red" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties svg:stroke-color="#c9211e"/>
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Yellow" style:display-name="Outlined Yellow" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-color="#b47804"/>
+   <style:text-properties fo:color="#b47804" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%"/>
+  </style:style>
+  <style:style style:name="Lines" style:family="graphic" style:parent-style-name="Graphic">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="Arrow_20_Line" style:display-name="Arrow Line" style:family="graphic" style:parent-style-name="Lines">
+   <style:graphic-properties draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:show-unit="true"/>
+  </style:style>
+  <style:style style:name="Arrow_20_Dashed" style:display-name="Arrow Dashed" style:family="graphic" style:parent-style-name="Lines">
+   <style:graphic-properties draw:stroke="dash"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:page-layout style:name="PM0">
+   <style:page-layout-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:page-width="84.1cm" fo:page-height="118.9cm" style:print-orientation="portrait"/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="border" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="dp2" style:family="drawing-page">
+   <style:drawing-page-properties draw:fill="solid" draw:fill-color="#282928"/>
+  </style:style>
+  <style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="4.48cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr2" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="2.391cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr3" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%" draw:textarea-vertical-align="middle" draw:shadow="hidden"/>
+  </style:style>
+  <style:style style:name="gr4" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.106cm" svg:stroke-color="#363636" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.178cm" fo:padding-bottom="0.178cm" fo:padding-left="0.303cm" fo:padding-right="0.303cm"/>
+  </style:style>
+  <style:style style:name="gr5" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#92d050" draw:opacity="100%" draw:textarea-vertical-align="middle" draw:shadow="hidden"/>
+  </style:style>
+  <style:style style:name="gr6" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.159cm" svg:stroke-color="#212120" draw:fill="none" draw:textarea-vertical-align="middle" fo:padding-top="0.204cm" fo:padding-bottom="0.204cm" fo:padding-left="0.329cm" fo:padding-right="0.329cm"/>
+  </style:style>
+  <style:style style:name="gr7" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="2.894cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr8" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="4.348cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr9" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="7.795cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr10" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#d9d9d9" draw:opacity="100%" draw:textarea-vertical-align="middle" draw:shadow="hidden"/>
+  </style:style>
+  <style:style style:name="gr11" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="3.983cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="3.355cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="0.874cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr14" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="1.081cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr15" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="2.36cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="1.178cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr17" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="4.867cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr18" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="5.974cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr19" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="8.695cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="6.631cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="4.275cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="1.089cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="8.695cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="7.965cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="5.326cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="3.73cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="2.985cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="1.992cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr29" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="2.456cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr30" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="2.708cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr31" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="1.735cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr32" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="2.155cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr33" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="1.768cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr34" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="2.097cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr35" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="3.212cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr36" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="3.1cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr37" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" fo:min-height="3.418cm" fo:min-width="2.54cm" fo:padding-top="0.102cm" fo:padding-bottom="0.102cm" fo:padding-left="0.102cm" fo:padding-right="0.102cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr38" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.75cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph">
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Traditional Arabic" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="start"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1" fo:font-size="48pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
+   <style:paragraph-properties fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#92d050" draw:opacity="100%"/>
+   <style:paragraph-properties fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="115%" fo:text-align="end" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="115%" fo:text-align="end" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph">
+   <style:paragraph-properties fo:line-height="150%" fo:text-align="start"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="150%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#d9d9d9" draw:opacity="100%"/>
+   <style:paragraph-properties fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1" fo:font-size="36pt" fo:font-weight="bold" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Traditional Arabic" fo:font-size="54pt" fo:font-weight="bold" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="end"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="end" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph">
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="start"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph">
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="justify"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="justify" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="115%" fo:text-align="start"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="justify" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="end" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-size="36pt" style:font-size-asian="36pt" style:font-size-complex="36pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="justify" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-size="33pt" style:font-size-asian="33pt" style:font-size-complex="33pt"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="60pt" fo:font-weight="bold" style:font-size-asian="60pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="60pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="42pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="70pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="70pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="70pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="54pt" fo:font-weight="bold" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="10pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="40pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="40pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="40pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="28pt" fo:language="en" fo:country="AU" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="Open Sans2" style:font-size-asian="28pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Open Sans2" style:font-size-complex="28pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic1" fo:font-size="70pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic1" style:font-size-asian="70pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="70pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="28pt" fo:language="en" fo:country="AU" fo:font-style="italic" style:font-name-asian="Open Sans2" style:font-size-asian="28pt" style:font-style-asian="italic" style:font-name-complex="Open Sans2" style:font-size-complex="28pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="55pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="55pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="55pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:color="#59204e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="60pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="60pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="60pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="54pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="70pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="70pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="70pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:color="#59204e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="70pt" fo:language="en" fo:country="AU" style:font-name-asian="Traditional Arabic1" style:font-size-asian="70pt" style:font-name-complex="Traditional Arabic1" style:font-size-complex="70pt"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="54pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-style="italic" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-style-asian="italic" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-size-complex="15pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+    <style:list-level-properties text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+    <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+    <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+    <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+    <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+    <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+    <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+    <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <draw:layer-set>
+   <draw:layer draw:name="layout"/>
+   <draw:layer draw:name="background"/>
+   <draw:layer draw:name="backgroundobjects"/>
+   <draw:layer draw:name="controls"/>
+   <draw:layer draw:name="measurelines"/>
+  </draw:layer-set>
+  <style:master-page style:name="PM0" style:page-layout-name="PM0" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:drawing>
+   <draw:page draw:name="page1" draw:style-name="dp2" draw:master-page-name="PM0">
+    <draw:g>
+     <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="layout" svg:width="16.645cm" svg:height="4.684cm" svg:x="42.886cm" svg:y="-0.52cm">
+      <draw:text-box>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">الأذكار بعد الصلاة </text:span></text:p>
+      </draw:text-box>
+     </draw:frame>
+     <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="layout" svg:width="22.225cm" svg:height="2.595cm" svg:x="24.569cm" svg:y="0.342cm">
+      <draw:text-box>
+       <text:p text:style-name="P3"><text:span text:style-name="T2">Supplications After Prayer <text:s text:c="4"/>/ </text:span></text:p>
+      </draw:text-box>
+     </draw:frame>
+    </draw:g>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="4.693cm" svg:x="2cm" svg:y="78.243cm" svg:viewBox="0 0 79923 4694" svg:d="M1006 0c-503 0-1006 503-1006 1006v2681c0 503 503 1007 1006 1007h77911c503 0 1006-504 1006-1007v-2681c0-503-503-1006-1006-1006zM1006 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="4.693cm" svg:x="2cm" svg:y="78.243cm" svg:viewBox="0 0 79923 4694" svg:d="M1006 0c-503 0-1006 503-1006 1006v2681c0 503 503 1007 1006 1007h77911c503 0 1006-504 1006-1007v-2681c0-503-503-1006-1006-1006z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="79.022cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="79.022cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P8" draw:layer="layout" svg:width="46.485cm" svg:height="3.098cm" svg:x="3.226cm" svg:y="79.129cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T3">Recite Ayat al-Kursi <text:s/>(Surah Al-Baqarah, Ch. 2, Ayah 255 ) </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P10" draw:layer="layout" svg:width="38.313cm" svg:height="4.552cm" svg:x="41.072cm" svg:y="78.1cm">
+     <draw:text-box>
+      <text:p text:style-name="P9"><text:span text:style-name="T4">قراﺀة اية الكرسي <text:s/>﴿ سورة البقرة ، الاية </text:span><text:span text:style-name="T4">۲۵۵</text:span><text:span text:style-name="T4"> ﴾ </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="9.773cm" svg:x="2cm" svg:y="83.159cm" svg:viewBox="0 0 79923 9774" svg:d="M1006 0c-503 0-1006 503-1006 1006v7761c0 504 503 1007 1006 1007h77911c503 0 1006-503 1006-1007v-7761c0-503-503-1006-1006-1006zM1006 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="9.773cm" svg:x="2cm" svg:y="83.159cm" svg:viewBox="0 0 79923 9774" svg:d="M1006 0c-503 0-1006 503-1006 1006v7761c0 504 503 1007 1006 1007h77911c503 0 1006-503 1006-1007v-7761c0-503-503-1006-1006-1006z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P10" draw:layer="layout" svg:width="55.724cm" svg:height="4.552cm" svg:x="23.661cm" svg:y="83.405cm">
+     <draw:text-box>
+      <text:p text:style-name="P9"><text:span text:style-name="T4">قراﺀة كل من:</text:span><text:span text:style-name="T4"><text:tab/></text:span><text:span text:style-name="T4"><text:tab/></text:span><text:span text:style-name="T4"><text:tab/></text:span><text:span text:style-name="T4">﴿ سورة الإخلاص ﴾ <text:s text:c="2"/>﴿ سورة الفلق ﴾ <text:s text:c="2"/>﴿ سورة الناس ﴾ </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr9" draw:text-style-name="P12" draw:layer="layout" svg:width="23.999cm" svg:height="7.999cm" svg:x="3.226cm" svg:y="83.786cm">
+     <draw:text-box>
+      <text:p text:style-name="P11"><text:span text:style-name="T3">Recite Surah Al-Ikhlaas</text:span><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T3">(Ch. 112) </text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T3">Recite Surah Al-Falaq</text:span><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T3">(Ch. 113) </text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T3">Recite Surah An-Naas</text:span><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T3">(Ch. 114) </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="83.939cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="83.939cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:path draw:style-name="gr10" draw:text-style-name="P13" draw:layer="layout" svg:width="55.206cm" svg:height="3.247cm" svg:x="25.5cm" svg:y="88.502cm" svg:viewBox="0 0 55207 3248" svg:d="M541 0c-271 0-541 270-541 541v2166c0 271 270 541 541 541h54124c271 0 542-270 542-541v-2166c0-271-271-541-542-541zM541 0z">
+     <text:p/>
+    </draw:path>
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P14" draw:layer="layout" svg:width="27.837cm" svg:height="4.187cm" svg:x="26.423cm" svg:y="88.012cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T5">Once after prayer / 3 times after Fajr &amp; Maghreb </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P15" draw:layer="layout" svg:width="26.196cm" svg:height="3.559cm" svg:x="53.893cm" svg:y="88.33cm">
+     <draw:text-box>
+      <text:p text:style-name="P1"><text:span text:style-name="T6">بعد الصلاة </text:span><text:span text:style-name="T6">١</text:span><text:span text:style-name="T6"> مرة / بعد الفجر والمغرب </text:span><text:span text:style-name="T6">٣</text:span><text:span text:style-name="T6"> مرات </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr13" draw:text-style-name="P17" draw:layer="layout" svg:width="15.934cm" svg:height="1.078cm" svg:x="64.499cm" svg:y="117.128cm">
+     <draw:text-box>
+      <text:p text:style-name="P16"><text:span text:style-name="T7">SUPPLICATIONS POSTER ENG TRANSLATION</text:span><text:span text:style-name="T7"><text:tab/></text:span><text:span text:style-name="T7"><text:tab/></text:span><text:span text:style-name="T7">V4 REV_1 </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr14" draw:text-style-name="P19" draw:layer="layout" svg:width="3.091cm" svg:height="1.285cm" draw:transform="rotate (-1.5707963267949) translate (2.123cm 5.076cm)">
+     <draw:text-box>
+      <text:p text:style-name="P18"><text:span text:style-name="T7">[Muslim 1/414] </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="6.341cm" svg:x="2cm" svg:y="3.45cm" svg:viewBox="0 0 79923 6342" svg:d="M995 0c-498 0-995 497-995 995v4352c0 498 497 995 995 995h77933c498 0 995-497 995-995v-4352c0-498-497-995-995-995zM995 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="6.341cm" svg:x="2cm" svg:y="3.45cm" svg:viewBox="0 0 79923 6342" svg:d="M995 0c-498 0-995 497-995 995v4352c0 498 497 995 995 995h77933c498 0 995-497 995-995v-4352c0-498-497-995-995-995z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P8" draw:layer="layout" svg:width="41.042cm" svg:height="2.564cm" svg:x="3.226cm" svg:y="4.544cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T8">Astaghfirullah, <text:s/>Astaghfirullah, <text:s/>Astaghfirullah </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="4.229cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="4.229cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P21" draw:layer="layout" svg:width="63.809cm" svg:height="2.564cm" svg:x="3.226cm" svg:y="7.008cm">
+     <draw:text-box>
+      <text:p text:style-name="P20"><text:span text:style-name="T9">I seek the forgiveness of Allah, I seek the forgiveness of Allah, I seek the forgiveness of Allah. </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P19" draw:layer="layout" svg:width="3.091cm" svg:height="1.382cm" draw:transform="rotate (-1.5707963267949) translate (2.219cm 12.88cm)">
+     <draw:text-box>
+      <text:p text:style-name="P18"><text:span text:style-name="T7">[Muslim 1/414] </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="8.796cm" svg:x="2cm" svg:y="10.014cm" svg:viewBox="0 0 79923 8797" svg:d="M926 0c-463 0-926 463-926 926v6944c0 463 463 927 926 927h78070c464 0 927-464 927-927v-6944c0-463-463-926-927-926zM926 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="8.796cm" svg:x="2cm" svg:y="10.014cm" svg:viewBox="0 0 79923 8797" svg:d="M926 0c-463 0-926 463-926 926v6944c0 463 463 927 926 927h78070c464 0 927-464 927-927v-6944c0-463-463-926-927-926z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr17" draw:text-style-name="P23" draw:layer="layout" svg:width="42.385cm" svg:height="5.071cm" svg:x="37cm" svg:y="11.057cm">
+     <draw:text-box>
+      <text:p text:style-name="P22"><text:span text:style-name="T4">اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَام </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="10.793cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="10.793cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr18" draw:text-style-name="P8" draw:layer="layout" svg:width="34.524cm" svg:height="6.178cm" svg:x="3.226cm" svg:y="10.259cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T10">Allahumma &apos;Antas-Salaamu wa minkas-salaamu, tabaarakta yaa Thal-Jalaali wal-Ikraam </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P21" draw:layer="layout" svg:width="63.809cm" svg:height="2.564cm" svg:x="3.226cm" svg:y="15.746cm">
+     <draw:text-box>
+      <text:p text:style-name="P20"><text:span text:style-name="T9">O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor. </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P19" draw:layer="layout" svg:width="8.201cm" svg:height="1.382cm" draw:transform="rotate (-1.5707963267949) translate (2.219cm 24.269cm)">
+     <draw:text-box>
+      <text:p text:style-name="P18"><text:span text:style-name="T7">[Muslim 1/414, Bukhari 1/255] </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="18.674cm" svg:x="2cm" svg:y="19.033cm" svg:viewBox="0 0 79923 18675" svg:d="M1006 0c-503 0-1006 503-1006 1006v16663c0 503 503 1006 1006 1006h77911c503 0 1006-503 1006-1006v-16663c0-503-503-1006-1006-1006zM1006 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="18.674cm" svg:x="2cm" svg:y="19.033cm" svg:viewBox="0 0 79923 18675" svg:d="M1006 0c-503 0-1006 503-1006 1006v16663c0 503 503 1006 1006 1006h77911c503 0 1006-503 1006-1006v-16663c0-503-503-1006-1006-1006z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P25" draw:layer="layout" svg:width="69.885cm" svg:height="8.899cm" svg:x="9.5cm" svg:y="19.472cm">
+     <draw:text-box>
+      <text:p text:style-name="P24"><text:span text:style-name="T11">لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ،</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T11"><text:s/>اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، </text:span><text:span text:style-name="T4">وَلَا مُعْطِيَ لِمَا مَنَعتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَد</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="19.813cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="19.813cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr20" draw:text-style-name="P26" draw:layer="layout" svg:width="77.774cm" svg:height="6.835cm" svg:x="3.226cm" svg:y="26.848cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T10">Laa ilaaha illallaahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa Huwa &apos;alaa kulli shay&apos;in Qadeer. Allahumma laa maani&apos;a limaa &apos;a&apos;tayta, wa laa mu&apos;tiya limaa mana&apos;ta, wa laa yanfa&apos;u thal-jaddi minkal-jadd </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr21" draw:text-style-name="P28" draw:layer="layout" svg:width="76.684cm" svg:height="4.479cm" svg:x="3.226cm" svg:y="32.594cm">
+     <draw:text-box>
+      <text:p text:style-name="P27"><text:span text:style-name="T9">None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise, and He is Able to do all things. O Allah, there is none who can withhold <text:s/>what You give, and none may give what You have withheld; and the might of the mighty person cannot benefit him against You. </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr22" draw:text-style-name="P19" draw:layer="layout" svg:width="8.201cm" svg:height="1.293cm" draw:transform="rotate (-1.5707963267949) translate (2.13cm 45.347cm)">
+     <draw:text-box>
+      <text:p text:style-name="P18"><text:span text:style-name="T7">[Muslim 1/415] </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="23.035cm" svg:x="2cm" svg:y="37.93cm" svg:viewBox="0 0 79923 23036" svg:d="M1005 0c-503 0-1005 502-1005 1005v21025c0 503 502 1006 1005 1006h77913c502 0 1005-503 1005-1006v-21025c0-503-503-1005-1005-1005zM1005 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="23.035cm" svg:x="2cm" svg:y="37.93cm" svg:viewBox="0 0 79923 23036" svg:d="M1005 0c-503 0-1005 502-1005 1005v21025c0 503 502 1006 1005 1006h77913c502 0 1005-503 1005-1006v-21025c0-503-503-1005-1005-1005z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr23" draw:text-style-name="P30" draw:layer="layout" svg:width="76.385cm" svg:height="8.899cm" svg:x="3cm" svg:y="38.531cm">
+     <draw:text-box>
+      <text:p text:style-name="P29"><text:span text:style-name="T11">لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ، لَا إِلٰهَ </text:span><text:span text:style-name="T4">إِلَّا اللهُ، وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، لَهُ النِّعمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلٰهَ إِلَّا اللهُ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُون</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr24" draw:text-style-name="P32" draw:layer="layout" svg:width="76.774cm" svg:height="8.169cm" svg:x="3.226cm" svg:y="46.683cm">
+     <draw:text-box>
+      <text:p text:style-name="P31"><text:span text:style-name="T10">Laa ilaaha illallaahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa Huwa &apos;alaa kulli shay&apos;in Qadeer. Laa hawla wa laa quwatta illaa billaahi, laa ilaaha illallahu, wa laa na&apos;budu illaa iyyahu, lahun-ni&apos;matu wa lahul-fadhlu wa lahut-thanaa&apos; ul-hasanu, laa ilaaha illallaahu mukhliseena lahud-deena wa law karihal-kafiroon </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="38.71cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="38.71cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr25" draw:text-style-name="P33" draw:layer="layout" svg:width="76.304cm" svg:height="5.53cm" svg:x="3.226cm" svg:y="54.387cm">
+     <draw:text-box>
+      <text:p text:style-name="P27"><text:span text:style-name="T12">None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise, and He is Able to do all things. There is no power and no might except by Allah. None has the right to be worshipped but Allah, and we do not worship any other besides Him. His is grace, and His is bounty and to him belongs the most excellent praise. None has the right to be worshipped but Allah. (We are) sincere in making our religious devotion to Him, even though the disbelievers may dislike it. </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr22" draw:text-style-name="P19" draw:layer="layout" svg:width="8.201cm" svg:height="1.293cm" draw:transform="rotate (-1.5707963267949) translate (2.13cm 65.504cm)">
+     <draw:text-box>
+      <text:p text:style-name="P18"><text:span text:style-name="T7">[Muslim 1/418] </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="16.831cm" svg:x="2cm" svg:y="61.189cm" svg:viewBox="0 0 79923 16832" svg:d="M1006 0c-503 0-1006 503-1006 1006v14819c0 503 503 1007 1006 1007h77910c504 0 1007-504 1007-1007v-14819c0-503-503-1006-1007-1006zM1006 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="16.831cm" svg:x="2cm" svg:y="61.189cm" svg:viewBox="0 0 79923 16832" svg:d="M1006 0c-503 0-1006 503-1006 1006v14819c0 503 503 1007 1006 1007h77910c504 0 1007-504 1007-1007v-14819c0-503-503-1006-1007-1006z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2.001cm" svg:x="80.875cm" svg:y="61.968cm" svg:viewBox="0 0 2001 2002" svg:d="M2001 1001c0 176-46 348-134 500-88 153-214 279-366 367s-325 134-500 134c-176 0-349-46-501-134s-278-214-366-367c-88-152-134-324-134-500s46-348 134-501c88-152 214-278 366-366s325-134 500-134c176 0 349 46 501 134s278 214 366 366c88 153 134 325 134 501zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2.001cm" svg:x="80.875cm" svg:y="61.968cm" svg:viewBox="0 0 2001 2002" svg:d="M2001 1001c0 176-46 348-134 500-88 153-214 279-366 367s-325 134-500 134c-176 0-349-46-501-134s-278-214-366-367c-88-152-134-324-134-500s46-348 134-501c88-152 214-278 366-366s325-134 500-134c176 0 349 46 501 134s278 214 366 366c88 153 134 325 134 501z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P10" draw:layer="layout" svg:width="21.306cm" svg:height="4.552cm" svg:x="58.079cm" svg:y="62.001cm">
+     <draw:text-box>
+      <text:p text:style-name="P9"><text:span text:style-name="T4">سُبْحَانَ الله، الْحَمْدُ لله، اللهُ أَكْبر </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr10" draw:text-style-name="P13" draw:layer="layout" svg:width="19.608cm" svg:height="3.682cm" svg:x="35.923cm" svg:y="62.205cm" svg:viewBox="0 0 19609 3683" svg:d="M613 0c-307 0-613 306-613 613v2456c0 307 306 614 613 614h18382c307 0 614-307 614-614v-2456c0-307-307-613-614-613zM613 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr10" draw:text-style-name="P13" draw:layer="layout" svg:width="2.192cm" svg:height="2.143cm" svg:x="55.47cm" svg:y="62.994cm" svg:viewBox="0 0 2193 2144" svg:d="M0 535h913v-535l1280 1071-1280 1073v-536h-913zM0 535z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr10" draw:text-style-name="P13" draw:layer="layout" svg:width="2.192cm" svg:height="2.143cm" svg:x="33.771cm" svg:y="62.986cm" svg:viewBox="0 0 2193 2144" svg:d="M2193 535h-914v-535l-1279 1071 1279 1073v-536h914zM2193 535z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr26" draw:text-style-name="P10" draw:layer="layout" svg:width="4.401cm" svg:height="3.934cm" svg:x="45.849cm" svg:y="61.95cm">
+     <draw:text-box>
+      <text:p text:style-name="P22"><text:span text:style-name="T13">مرات</text:span><text:span text:style-name="T14"> </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr27" draw:text-style-name="P34" draw:layer="layout" svg:width="2.792cm" svg:height="3.189cm" svg:x="37cm" svg:y="62.194cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T15">33 </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr28" draw:text-style-name="P35" draw:layer="layout" svg:width="6.95cm" svg:height="2.196cm" svg:x="39.05cm" svg:y="62.786cm">
+     <draw:text-box>
+      <text:p text:style-name="P18"><text:span text:style-name="T16">times </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P36" draw:layer="layout" svg:width="2.968cm" svg:height="4.552cm" svg:x="51.25cm" svg:y="61.832cm">
+     <draw:text-box>
+      <text:p text:style-name="P1"><text:span text:style-name="T17">۳۳</text:span><text:span text:style-name="T18"> </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr29" draw:text-style-name="P8" draw:layer="layout" svg:width="74.938cm" svg:height="2.66cm" svg:x="3.226cm" svg:y="71.497cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T10">Laa ilaaha illallaahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa Huwa &apos;alaa kulli shay&apos;in Qadeer </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr30" draw:text-style-name="P37" draw:layer="layout" svg:width="29.844cm" svg:height="2.912cm" svg:x="3.226cm" svg:y="62.235cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T10">Subhanallah, alhamdulillaah, allaahu &apos;Akbar </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr31" draw:text-style-name="P38" draw:layer="layout" svg:width="77.648cm" svg:height="1.939cm" svg:x="3.226cm" svg:y="74.711cm">
+     <draw:text-box>
+      <text:p text:style-name="P27"><text:span text:style-name="T12">None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise, and He is Able to do all things. </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr32" draw:text-style-name="P39" draw:layer="layout" svg:width="29.125cm" svg:height="2.359cm" svg:x="3.226cm" svg:y="64.897cm">
+     <draw:text-box>
+      <text:p text:style-name="P20"><text:span text:style-name="T12">Glory is to Allah, Praise is to Allah, Allah is the most Great </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P10" draw:layer="layout" svg:width="52.201cm" svg:height="4.552cm" svg:x="27.183cm" svg:y="66.681cm">
+     <draw:text-box>
+      <text:p text:style-name="P9"><text:span text:style-name="T4">لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِير </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr22" draw:text-style-name="P19" draw:layer="layout" svg:width="8.201cm" svg:height="1.293cm" draw:transform="rotate (-1.5707963267949) translate (2.13cm 95.421cm)">
+     <draw:text-box>
+      <text:p text:style-name="P18"><text:span text:style-name="T7">[At-Tirmidhi 5/515] </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="12.731cm" svg:x="2cm" svg:y="93.156cm" svg:viewBox="0 0 79923 12732" svg:d="M982 0c-491 0-982 491-982 982v10768c0 491 491 982 982 982h77959c491 0 982-491 982-982v-10768c0-491-491-982-982-982zM982 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="12.731cm" svg:x="2cm" svg:y="93.156cm" svg:viewBox="0 0 79923 12732" svg:d="M982 0c-491 0-982 491-982 982v10768c0 491 491 982 982 982h77959c491 0 982-491 982-982v-10768c0-491-491-982-982-982z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="93.935cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="93.935cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P10" draw:layer="layout" svg:width="73.371cm" svg:height="4.552cm" svg:x="6.014cm" svg:y="93.515cm">
+     <draw:text-box>
+      <text:p text:style-name="P9"><text:span text:style-name="T4">لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي ويُمِيتُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِير </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:path draw:style-name="gr10" draw:text-style-name="P13" draw:layer="layout" svg:width="35.287cm" svg:height="2.883cm" svg:x="45.5cm" svg:y="101.85cm" svg:viewBox="0 0 35288 2884" svg:d="M430 0c-215 0-430 240-430 480v1924c0 240 215 480 430 480h34427c216 0 431-240 431-480v-1924c0-240-215-480-431-480zM430 0z">
+     <text:p/>
+    </draw:path>
+    <draw:frame draw:style-name="gr33" draw:text-style-name="P34" draw:layer="layout" svg:width="17.548cm" svg:height="1.972cm" svg:x="46.18cm" svg:y="102.221cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T19">10 times after Fajr &amp; Maghreb </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P40" draw:layer="layout" svg:width="16.301cm" svg:height="3.559cm" svg:x="63.676cm" svg:y="101.517cm">
+     <draw:text-box>
+      <text:p text:style-name="P1"><text:span text:style-name="T20">بعد الفجر والمغرب </text:span><text:span text:style-name="T20">١۰</text:span><text:span text:style-name="T20"> مرات </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr34" draw:text-style-name="P41" draw:layer="layout" svg:width="77.524cm" svg:height="2.301cm" svg:x="3.226cm" svg:y="98.353cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T21">Laa ilaaha illallaahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu yuhyee wa yumeetu wa Huwa &apos;alaa kulli shay&apos;in Qadeer </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr35" draw:text-style-name="P38" draw:layer="layout" svg:width="41.112cm" svg:height="3.416cm" svg:x="3.226cm" svg:y="101.496cm">
+     <draw:text-box>
+      <text:p text:style-name="P27"><text:span text:style-name="T12">None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise. He brings life and He causes death, and He is Able to do all things. </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr22" draw:text-style-name="P19" draw:layer="layout" svg:width="8.201cm" svg:height="1.293cm" draw:transform="rotate (-1.5707963267949) translate (2.13cm 107.468cm)">
+     <draw:text-box>
+      <text:p text:style-name="P18"><text:span text:style-name="T7">[Ibn Majah 1/152] </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:path draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="79.922cm" svg:height="10.917cm" svg:x="2cm" svg:y="106.25cm" svg:viewBox="0 0 79923 10918" svg:d="M1006 0c-503 0-1006 503-1006 1006v8905c0 504 503 1007 1006 1007h77911c503 0 1006-503 1006-1007v-8905c0-503-503-1006-1006-1006zM1006 0z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="79.922cm" svg:height="10.917cm" svg:x="2cm" svg:y="106.25cm" svg:viewBox="0 0 79923 10918" svg:d="M1006 0c-503 0-1006 503-1006 1006v8905c0 504 503 1007 1006 1007h77911c503 0 1006-503 1006-1007v-8905c0-503-503-1006-1006-1006z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:g>
+     <draw:path draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="106.989cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500zM2001 1001z">
+      <text:p/>
+     </draw:path>
+     <draw:path draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="2cm" svg:height="2cm" svg:x="80.875cm" svg:y="106.989cm" svg:viewBox="0 0 2001 2001" svg:d="M2001 1001c0 175-46 348-134 500s-214 278-366 366-325 134-500 134c-176 0-349-46-501-134s-278-214-366-366-134-325-134-500c0-176 46-349 134-501s214-278 366-366 325-134 500-134c176 0 349 46 501 134s278 214 366 366 134 325 134 500z">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P10" draw:layer="layout" svg:width="36.935cm" svg:height="4.552cm" svg:x="42.45cm" svg:y="107.176cm">
+     <draw:text-box>
+      <text:p text:style-name="P42"><text:span text:style-name="T4">اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr36" draw:text-style-name="P8" draw:layer="layout" svg:width="75.026cm" svg:height="3.304cm" svg:x="3.226cm" svg:y="110.98cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T10">Allahumma ‘innee ‘as’aluka ‘ilman naafi’an, wa rizqan tayyiban, wa ‘amalan mutaqabbalan </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:path draw:style-name="gr10" draw:text-style-name="P13" draw:layer="layout" svg:width="18.634cm" svg:height="2.981cm" svg:x="3.226cm" svg:y="107.314cm" svg:viewBox="0 0 18635 2982" svg:d="M496 0c-248 0-496 248-496 496v1989c0 248 248 497 496 497h17642c249 0 497-249 497-497v-1989c0-248-248-496-497-496zM496 0z">
+     <text:p/>
+    </draw:path>
+    <draw:frame draw:style-name="gr33" draw:text-style-name="P34" draw:layer="layout" svg:width="6.194cm" svg:height="1.972cm" svg:x="4.203cm" svg:y="107.7cm">
+     <draw:text-box>
+      <text:p text:style-name="P3"><text:span text:style-name="T19">After Fajr </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr37" draw:text-style-name="P40" draw:layer="layout" svg:width="10.792cm" svg:height="3.622cm" svg:x="10.246cm" svg:y="107.01cm">
+     <draw:text-box>
+      <text:p text:style-name="P1"><text:span text:style-name="T13">بعد صلاة الفجر </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr31" draw:text-style-name="P39" draw:layer="layout" svg:width="77.648cm" svg:height="1.939cm" svg:x="3.226cm" svg:y="114.242cm">
+     <draw:text-box>
+      <text:p text:style-name="P20"><text:span text:style-name="T22">O Allah, I ask You for knowledge that is of benefit, a good provision, and deeds that will be accepted. </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P43" draw:layer="layout" svg:width="25.635cm" svg:height="4.552cm" svg:x="53.75cm" svg:y="4.431cm">
+     <draw:text-box>
+      <text:p text:style-name="P1"><text:span text:style-name="T4">أَسْتَغْفِرُ الله، أَسْتَغْفِرُ الله، أَسْتَغْفِرُ الله </text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr38" draw:text-style-name="P45" draw:layer="layout" svg:width="21.25cm" svg:height="1cm" svg:x="31.425cm" svg:y="117.251cm">
+     <draw:text-box>
+      <text:p text:style-name="P44"><text:span text:style-name="T23">https://islamicposters.github.io</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+   </draw:page>
+  </office:drawing>
+ </office:body>
+</office:document>
