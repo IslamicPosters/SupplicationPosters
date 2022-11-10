@@ -4,8 +4,8 @@
  <office:meta><dc:date>2022-11-10T17:13:12.566000000</dc:date><meta:creation-date>2022-11-09T22:54:13Z</meta:creation-date><meta:generator>LibreOffice/7.4.2.3$Windows_X86_64 LibreOffice_project/382eef1f22670f7f4118c8c2dd222ec7ad009daf</meta:generator><meta:editing-duration>PT53M48S</meta:editing-duration><meta:editing-cycles>25</meta:editing-cycles><dc:title>Supplications Poster with Transliteration</dc:title><meta:document-statistic meta:object-count="104"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">56121</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-6644</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">13611</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-6673</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">227683</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">131233</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -35,10 +35,10 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">56856</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-6644</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">94869</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">53182</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-2419</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-34824</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">162632</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">93739</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">250</config:config-item>
@@ -121,13 +121,13 @@
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;"/>
+  <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Open Sans1" svg:font-family="&apos;Open Sans&apos;" style:font-pitch="variable"/>
-  <style:font-face style:name="Open Sans2" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans2" svg:font-family="&apos;Open Sans&apos;"/>
   <style:font-face style:name="Open Sans3" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Traditional Arabic" svg:font-family="&apos;Traditional Arabic&apos;"/>
-  <style:font-face style:name="Traditional Arabic1" svg:font-family="&apos;Traditional Arabic&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Traditional Arabic" svg:font-family="&apos;Traditional Arabic&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Traditional Arabic1" svg:font-family="&apos;Traditional Arabic&apos;"/>
  </office:font-face-decls>
  <office:styles>
   <draw:gradient draw:name="Filled" draw:style="linear" draw:start-color="#ffffff" draw:end-color="#cccccc" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
@@ -139,7 +139,7 @@
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Open Sans1" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Open Sans1" style:font-size-complex="24pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -200,7 +200,7 @@
   </style:style>
   <style:style style:name="Text" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#cccccc" draw:fill="solid" draw:fill-color="#eeeeee"/>
-   <style:text-properties style:font-name="Open Sans2" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   </style:style>
   <style:style style:name="A4" style:family="graphic" style:parent-style-name="Text">
    <style:graphic-properties draw:fill="none"/>
@@ -234,7 +234,7 @@
   </style:style>
   <style:style style:name="Graphic" style:family="graphic">
    <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
-   <style:text-properties style:font-name="Open Sans2" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/>
   </style:style>
   <style:style style:name="Shapes" style:family="graphic" style:parent-style-name="Graphic">
    <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Shapes"/>
@@ -249,7 +249,7 @@
   </style:style>
   <style:style style:name="Filled_20_Green" style:display-name="Filled Green" style:family="graphic" style:parent-style-name="Filled">
    <style:graphic-properties draw:fill-gradient-name="Filled_20_Green"/>
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans2" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   </style:style>
   <style:style style:name="Filled_20_Red" style:display-name="Filled Red" style:family="graphic" style:parent-style-name="Filled">
    <style:graphic-properties draw:fill-gradient-name="Filled_20_Red"/>
@@ -538,12 +538,13 @@
    <style:text-properties fo:color="#e2322c" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" fo:font-size="94pt" style:font-size-asian="94pt" style:font-size-complex="94pt"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="92%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.35cm" fo:line-height="95%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="96pt" style:font-size-asian="96pt" style:font-size-complex="96pt"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="92%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
-   <style:text-properties fo:color="#e2322c" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" fo:font-size="95pt" style:font-size-asian="95pt" style:font-size-complex="95pt"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.35cm" fo:line-height="95%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:color="#e2322c" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" fo:font-size="96pt" style:font-size-asian="96pt" style:font-size-complex="96pt"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#d9d9d9"/>
@@ -558,10 +559,10 @@
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="10pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans2" fo:font-size="10pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="90pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="90pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="90pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="90pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="90pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="90pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
    <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="60pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans1" style:font-size-asian="60pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans1" style:font-size-complex="60pt" style:font-weight-complex="bold"/>
@@ -570,22 +571,22 @@
    <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="48pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans1" style:font-size-asian="48pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans1" style:font-size-complex="48pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="95pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="95pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="95pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="95pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="95pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="95pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic" fo:font-size="95pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic" style:font-size-asian="95pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="95pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic1" fo:font-size="95pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic1" style:font-size-asian="95pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="95pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic" fo:font-size="80pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic" style:font-size-asian="80pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="80pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic1" fo:font-size="80pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic1" style:font-size-asian="80pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="80pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="80pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="80pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="80pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="80pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="80pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="80pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="54pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="54pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="66pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="66pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="66pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="66pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="66pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="66pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
    <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="80pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans1" style:font-size-asian="80pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans1" style:font-size-complex="80pt" style:font-weight-complex="bold"/>
@@ -594,36 +595,42 @@
    <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="44pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans1" style:font-size-asian="44pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans1" style:font-size-complex="44pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="100pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="100pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="100pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="100pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="100pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="100pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="100pt" fo:language="en" fo:country="AU" style:font-name-asian="Traditional Arabic" style:font-size-asian="100pt" style:font-name-complex="Traditional Arabic" style:font-size-complex="100pt"/>
+   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="100pt" fo:language="en" fo:country="AU" style:font-name-asian="Traditional Arabic1" style:font-size-asian="100pt" style:font-name-complex="Traditional Arabic1" style:font-size-complex="100pt"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic" fo:font-size="90pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic" style:font-size-asian="90pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="90pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic1" fo:font-size="90pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic1" style:font-size-asian="90pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="90pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="90pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="90pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="90pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="90pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="90pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="90pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
    <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="38pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans1" style:font-size-asian="38pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans1" style:font-size-complex="38pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="72pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="72pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="72pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="72pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="72pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="72pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
    <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans1" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans1" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="60pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="60pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="60pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#0973ac" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="60pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="60pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="60pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="83pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic" style:font-size-asian="83pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="83pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="83pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="83pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="83pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
    <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="44pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans1" style:font-size-asian="44pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans1" style:font-size-complex="44pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic1" fo:font-size="96pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic1" style:font-size-asian="96pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="96pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="96pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="96pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="96pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
    <style:text-properties fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-size-complex="15pt" style:font-weight-complex="bold"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -1034,9 +1041,10 @@
       <text:p text:style-name="P23"><text:span text:style-name="T6">لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ، لَا إِلٰهَ </text:span><text:span text:style-name="T5">إِلَّا اللهُ، وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، لَهُ النِّعمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلٰهَ إِلَّا اللهُ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُون</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr34" draw:text-style-name="P26" draw:layer="layout" svg:width="73.9cm" svg:height="10.75cm" svg:x="4.85cm" svg:y="21.1cm">
+    <draw:frame draw:style-name="gr34" draw:text-style-name="P26" draw:layer="layout" svg:width="73.9cm" svg:height="10.75cm" svg:x="4.85cm" svg:y="21.299cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T6"><text:tab/></text:span><text:span text:style-name="T6">لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، </text:span><text:span text:style-name="T5">وَلَا مُعْطِيَ لِمَا مَنَعتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَد</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T23">لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ،</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T23">اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، </text:span><text:span text:style-name="T24">وَلَا مُعْطِيَ لِمَا مَنَعتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَد</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P27" draw:layer="layout" svg:width="19.25cm" svg:height="5cm" draw:transform="rotate (0.00261799387799149) translate (59.537cm 102.1cm)">
@@ -1068,7 +1076,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr37" draw:text-style-name="P29" draw:layer="layout" svg:width="21.25cm" svg:height="1cm" svg:x="31.425cm" svg:y="117.05cm">
      <draw:text-box>
-      <text:p text:style-name="P28"><text:span text:style-name="T23">https://islamicposters.github.io</text:span></text:p>
+      <text:p text:style-name="P28"><text:span text:style-name="T25">https://islamicposters.github.io</text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>

@@ -4,8 +4,8 @@
  <office:meta><dc:date>2022-11-10T17:13:40.521000000</dc:date><meta:creation-date>2022-11-09T22:59:29Z</meta:creation-date><meta:generator>LibreOffice/7.4.2.3$Windows_X86_64 LibreOffice_project/382eef1f22670f7f4118c8c2dd222ec7ad009daf</meta:generator><meta:editing-duration>PT49M32S</meta:editing-duration><meta:editing-cycles>49</meta:editing-cycles><dc:title>Supplications Poster with English Translation</dc:title><meta:document-statistic meta:object-count="111"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">25509</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-73269</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-4746</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-28852</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">142302</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">82021</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -36,8 +36,8 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">50355</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-28894</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-4746</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-28852</config:config-item>
      <config:config-item config:name="VisibleAreaWidth" config:type="int">135526</config:config-item>
      <config:config-item config:name="VisibleAreaHeight" config:type="int">78116</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
@@ -129,8 +129,8 @@
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Open Sans1" svg:font-family="&apos;Open Sans&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans" svg:font-family="&apos;Open Sans&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Open Sans1" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Open Sans2" svg:font-family="&apos;Open Sans&apos;"/>
   <style:font-face style:name="Open Sans3" svg:font-family="&apos;Open Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -148,10 +148,10 @@
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Open Sans1" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Open Sans1" style:font-size-complex="24pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Open Sans" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Open Sans" style:font-size-complex="24pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:default-style>
   <style:style style:name="standard" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:marker-end-width="0.2cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#729fcf" draw:textarea-horizontal-align="justify" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080">
@@ -199,7 +199,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Open Sans1" fo:font-family="&apos;Open Sans&apos;" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Open Sans1" style:font-family-asian="&apos;Open Sans&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Open Sans3" style:font-family-complex="&apos;Open Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Open Sans" style:font-family-asian="&apos;Open Sans&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Open Sans3" style:font-family-complex="&apos;Open Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:fill="none"/>
@@ -243,7 +243,7 @@
   </style:style>
   <style:style style:name="Graphic" style:family="graphic">
    <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
-   <style:text-properties style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/>
+   <style:text-properties style:font-name="Open Sans1" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/>
   </style:style>
   <style:style style:name="Shapes" style:family="graphic" style:parent-style-name="Graphic">
    <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Shapes"/>
@@ -258,7 +258,7 @@
   </style:style>
   <style:style style:name="Filled_20_Green" style:display-name="Filled Green" style:family="graphic" style:parent-style-name="Filled">
    <style:graphic-properties draw:fill-gradient-name="Filled_20_Green"/>
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1" fo:font-family="&apos;Open Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   </style:style>
   <style:style style:name="Filled_20_Red" style:display-name="Filled Red" style:family="graphic" style:parent-style-name="Filled">
    <style:graphic-properties draw:fill-gradient-name="Filled_20_Red"/>
@@ -468,7 +468,7 @@
   <style:style style:name="P4" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1" fo:font-size="48pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans" fo:font-size="48pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%"/>
@@ -485,7 +485,7 @@
   <style:style style:name="P8" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1"/>
+   <style:text-properties style:font-name="Open Sans"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="115%" fo:text-align="end" style:writing-mode="rl-tb"/>
@@ -500,7 +500,7 @@
   <style:style style:name="P12" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="150%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1"/>
+   <style:text-properties style:font-name="Open Sans"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#d9d9d9" draw:opacity="100%"/>
@@ -509,7 +509,7 @@
   <style:style style:name="P14" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1" fo:font-size="36pt" fo:font-weight="bold" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans" fo:font-size="36pt" fo:font-weight="bold" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
@@ -522,7 +522,7 @@
   <style:style style:name="P17" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="end" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1"/>
+   <style:text-properties style:font-name="Open Sans"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph">
    <style:paragraph-properties fo:line-height="115%" fo:text-align="center"/>
@@ -530,7 +530,7 @@
   <style:style style:name="P19" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph">
    <style:paragraph-properties fo:line-height="100%" fo:text-align="start"/>
@@ -538,7 +538,7 @@
   <style:style style:name="P21" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
@@ -557,7 +557,7 @@
   <style:style style:name="P26" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph">
    <style:paragraph-properties fo:line-height="100%" fo:text-align="justify"/>
@@ -565,7 +565,7 @@
   <style:style style:name="P28" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="100%" fo:text-align="justify" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="end" fo:text-indent="0cm" style:writing-mode="rl-tb"/>
@@ -580,22 +580,22 @@
   <style:style style:name="P32" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1"/>
+   <style:text-properties style:font-name="Open Sans"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="100%" fo:text-align="justify" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans1"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Open Sans"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
@@ -604,17 +604,17 @@
   <style:style style:name="P37" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1" fo:font-size="36pt" style:font-size-asian="36pt" style:font-size-complex="36pt"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-size="36pt" style:font-size-asian="36pt" style:font-size-complex="36pt"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="100%" fo:text-align="justify" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1"/>
+   <style:text-properties style:font-name="Open Sans"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1"/>
+   <style:text-properties style:font-name="Open Sans"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
@@ -624,7 +624,7 @@
   <style:style style:name="P41" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:line-height="115%" fo:text-align="start" style:writing-mode="lr-tb"/>
-   <style:text-properties style:font-name="Open Sans1" fo:font-size="33pt" style:font-size-asian="33pt" style:font-size-complex="33pt"/>
+   <style:text-properties style:font-name="Open Sans" fo:font-size="33pt" style:font-size-asian="33pt" style:font-size-complex="33pt"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-align="end" style:writing-mode="rl-tb"/>
@@ -645,37 +645,37 @@
    <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="60pt" fo:font-weight="bold" style:font-size-asian="60pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="60pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="42pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="42pt" fo:font-weight="bold" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
    <style:text-properties fo:color="#e2322c" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="70pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="70pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="70pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
    <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Traditional Arabic" fo:font-size="54pt" fo:font-weight="bold" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="10pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="10pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="40pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="40pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="40pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="40pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="40pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="40pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="28pt" fo:language="en" fo:country="AU" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="Open Sans2" style:font-size-asian="28pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Open Sans2" style:font-size-complex="28pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="28pt" fo:language="en" fo:country="AU" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="Open Sans2" style:font-size-asian="28pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Open Sans2" style:font-size-complex="28pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#e2322c" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Traditional Arabic1" fo:font-size="70pt" fo:language="ar" fo:country="SA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Traditional Arabic1" style:font-size-asian="70pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="70pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="28pt" fo:language="en" fo:country="AU" fo:font-style="italic" style:font-name-asian="Open Sans2" style:font-size-asian="28pt" style:font-style-asian="italic" style:font-name-complex="Open Sans2" style:font-size-complex="28pt" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="28pt" fo:language="en" fo:country="AU" fo:font-style="italic" style:font-name-asian="Open Sans2" style:font-size-asian="28pt" style:font-style-asian="italic" style:font-name-complex="Open Sans2" style:font-size-complex="28pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
    <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="55pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="55pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="55pt" style:font-weight-complex="bold"/>
@@ -684,10 +684,10 @@
    <style:text-properties fo:color="#59204e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="60pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="60pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="60pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="54pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="54pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="36pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="36pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="36pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
    <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="70pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="70pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="70pt" style:font-weight-complex="bold"/>
@@ -696,16 +696,16 @@
    <style:text-properties fo:color="#59204e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="70pt" fo:language="en" fo:country="AU" style:font-name-asian="Traditional Arabic1" style:font-size-asian="70pt" style:font-name-complex="Traditional Arabic1" style:font-size-complex="70pt"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
    <style:text-properties fo:color="#069a2e" loext:opacity="100%" style:font-name="Traditional Arabic1" fo:font-size="54pt" fo:language="ar" fo:country="SA" fo:font-weight="bold" style:font-name-asian="Traditional Arabic1" style:font-size-asian="54pt" style:font-weight-asian="bold" style:font-name-complex="Traditional Arabic1" style:font-size-complex="54pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#0070c0" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-weight="bold" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans1" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-style="italic" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-style-asian="italic" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-style-complex="italic"/>
+   <style:text-properties fo:color="#212120" loext:opacity="100%" style:font-name="Open Sans" fo:font-size="32pt" fo:language="en" fo:country="AU" fo:font-style="italic" style:font-name-asian="Open Sans2" style:font-size-asian="32pt" style:font-style-asian="italic" style:font-name-complex="Open Sans2" style:font-size-complex="32pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
    <style:text-properties fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-size-complex="15pt" style:font-weight-complex="bold"/>
@@ -933,7 +933,7 @@
     <draw:frame draw:style-name="gr19" draw:text-style-name="P25" draw:layer="layout" svg:width="69.885cm" svg:height="8.899cm" svg:x="9.5cm" svg:y="19.472cm">
      <draw:text-box>
       <text:p text:style-name="P24"><text:span text:style-name="T11">لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ،</text:span></text:p>
-      <text:p text:style-name="P24"><text:span text:style-name="T11"><text:s/>اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، </text:span><text:span text:style-name="T4">وَلَا مُعْطِيَ لِمَا مَنَعتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَد</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T11">اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، </text:span><text:span text:style-name="T4">وَلَا مُعْطِيَ لِمَا مَنَعتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَد</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
